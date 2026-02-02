@@ -1,8 +1,12 @@
-## Hi there👋
+## Oh, Hi there! 👋
 
-- 🔭 I’m currently working on Android (learning)
-- 🌱 I’m currently learning Java, Kotlin, Android Development, etc
-- 🤔 I’m looking for help with Linux
-- 📫 How to reach me: Instagram @strawberries.ssh
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm only 14. and i live in Indonesia
+My name is Nat (online) and i am from Indonesia :D
+
+I'm currently learning Python, Java, Kotlin, C++
+I am still a beginner, so don't expect much from it :(
+
+Right now I'm making AOSP ROM builds for random device in my freetime if i want to (and if i have the server) xD
+
+Thank you for reading this! :D
+
+See you again later 👋🤗
